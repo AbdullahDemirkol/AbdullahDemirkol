@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahdemirkol" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahdemirkol&no-bg=false&margin-w=4" /></a> </p>
 
 
 
@@ -32,8 +32,8 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahdemirkol&show_icons=true&locale=en&layout=compact" alt="abdullahdemirkol" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahdemirkol&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="abdullahdemirkol" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahdemirkol" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahdemirkol&theme=dark&hide_border=false" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahdemirkol" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahdemirkol&theme=dark&hide_border=false" /></p>
