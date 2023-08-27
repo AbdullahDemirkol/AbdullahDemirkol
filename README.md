@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Frontend Technologies and Backend Technologies**
+- 🌱 I’m currently learning **Backend Technologies and Frontend Technologies**
 
 - 📫 How to reach me **abdullahdemirkol01@gmail.com**
 
