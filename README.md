@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullah-demirkol/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahdemirkol" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdullahdemirko1"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abdullahdemirkol" height="30" width="40" /></a>
-<a href="https://www.instagram.com/abdullah.demirkolll/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="@abdullahdemirkol" height="30" width="40" /></a>
 
 </p>
 
